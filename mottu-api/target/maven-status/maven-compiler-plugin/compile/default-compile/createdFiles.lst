@@ -1,0 +1,13 @@
+com\mottu\api\service\ManutencaoService.class
+com\mottu\api\model\Moto.class
+com\mottu\api\repository\ManutencaoRepository.class
+com\mottu\api\dto\ManutencaoDTO.class
+com\mottu\api\controller\ManutencaoController.class
+com\mottu\api\repository\MotoRepository.class
+com\mottu\api\model\Manutencao.class
+com\mottu\api\service\MotoService.class
+com\mottu\api\controller\MotoController.class
+com\mottu\api\dto\MotoDTO.class
+com\mottu\api\exception\ResourceNotFoundException.class
+com\mottu\api\exception\GlobalExceptionHandler.class
+com\mottu\api\MainApplication.class
